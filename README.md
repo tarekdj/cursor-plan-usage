@@ -14,7 +14,7 @@ Show **Cursor subscription / plan usage** in [pi](https://github.com/earendil-wo
 
 ## Install
 
-**From git** (private repo — use SSH or a token if `pi install` prompts for auth):
+**From git:**
 
 ```bash
 pi install git:github.com/tarekdj/cursor-plan-usage
