@@ -14,16 +14,16 @@ Show **Cursor subscription / plan usage** in [pi](https://github.com/earendil-wo
 
 ## Install
 
-**From git** (after you publish the repo):
+**From git** (private repo — use SSH or a token if `pi install` prompts for auth):
 
 ```bash
-pi install git:github.com/<owner>/cursor-plan-usage
+pi install git:github.com/tarekdj/cursor-plan-usage
 ```
 
 **Clone and try once:**
 
 ```bash
-git clone https://github.com/<owner>/cursor-plan-usage.git
+git clone https://github.com/tarekdj/cursor-plan-usage.git
 pi -e /path/to/cursor-plan-usage
 ```
 
